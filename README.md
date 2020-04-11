@@ -1,2 +1,2 @@
 # suyashkelvin.github.io
-Testing page
+This is how the Angular starting page looks like
